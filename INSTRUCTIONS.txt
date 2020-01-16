@@ -1,0 +1,12 @@
+STEP (1)
+Select a .jpg file 
+
+STEP (2)
+Save file as a text file
+
+STEP (3)
+Open with a notepad editor, preferably Notepad++
+
+WARNING
+Make sure to set the background of your text editor to black and the foregorund to white
+
